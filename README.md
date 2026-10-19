@@ -45,5 +45,3 @@ El paquete no incluye `gradle-wrapper.jar`. Si Android Studio requiere el wrappe
 5. Abrir Historial y comprobar tipo `SALIDA` y motivo `venta`.
 6. Cerrar y abrir la aplicación y comprobar que Room conserva el movimiento.
 
-## Estado de verificación
-Se corrigieron las validaciones para mostrar errores junto a los campos y se revisó el código de forma estática. El proyecto no se ha compilado ni ejecutado en Android Studio en este entorno; hay que realizar las pruebas antes de entregar.
